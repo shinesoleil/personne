@@ -15,9 +15,3 @@ install:
 script:
   - yarn lint
   - yarn test
-  - yarn build
-deploy:
-  provider: heroku
-  api_key:
-    secure: "2ed85e9a-1243-4bc9-a580-40f249465c63"
-  app: test1233211234567
