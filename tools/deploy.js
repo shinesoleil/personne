@@ -24,10 +24,10 @@ import run from './run';
 
 // Heroku
 const remote = {
-  name: 'site-personell-hpan',
-  url: 'https://git.heroku.com/site-personell-hpan.git',
+  name: 'test1233211234567',
+  url: 'https://git.heroku.com/test1233211234567.git',
   branch: 'master',
-  website: 'https://site-personell-hpan.herokuapp.com/',
+  website: 'https://test1233211234567.herokuapp.com/',
 };
 
 // Azure Web Apps
